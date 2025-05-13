@@ -1,0 +1,42 @@
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe.config
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.pdb
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.AssemblyReference.cache
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.Form1.resources
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.kitap.resources
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.oduncislem.resources
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.ogrencislem.resources
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.Properties.Resources.resources
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.turislem.resources
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.GenerateResource.cache
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.CoreCompileInputs.cache
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.exe
+C:\Users\ANB-LAB\Documents\Visual Studio 2022\Projeler\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.pdb
+D:\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe.config
+D:\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe
+D:\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.pdb
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.AssemblyReference.cache
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.Form1.resources
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.kitap.resources
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.oduncislem.resources
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.ogrencislem.resources
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.Properties.Resources.resources
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.turislem.resources
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.GenerateResource.cache
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.CoreCompileInputs.cache
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.exe
+D:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.pdb
+E:\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe.config
+E:\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.exe
+E:\KUTUPHANE\KUTUPHANE\bin\Debug\KUTUPHANE.pdb
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.AssemblyReference.cache
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.Form1.resources
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.kitap.resources
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.oduncislem.resources
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.ogrencislem.resources
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.Properties.Resources.resources
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.turislem.resources
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.GenerateResource.cache
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.csproj.CoreCompileInputs.cache
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.exe
+E:\KUTUPHANE\KUTUPHANE\obj\Debug\KUTUPHANE.pdb
